@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+//Guess the number between 1-100
 int main(int argc, char** argv) {
 	
 	string choice="yes";
