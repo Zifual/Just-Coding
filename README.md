@@ -1,2 +1,2 @@
 # Just-Coding
-Includes solving some little questions, trying different algoritms and playing with codes
+Includes solving some little problems, trying different algoritms and playing with codes
