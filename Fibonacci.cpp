@@ -4,7 +4,7 @@ using namespace std;
 int fibonacci(int a);
 int main(int argc, char** argv) {
 	
-	int n=3;
+	int n;
 	while(n!=-1)
 	{
 		int a=0,b=1,c;
